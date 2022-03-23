@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687278297523",
+    "project_id": "beautyparlorapp",
+    "storage_bucket": "beautyparlorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687278297523:android:5bf8c304cd3aec22f07bc6",
+        "android_client_info": {
+          "package_name": "com.example.beautyparlorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687278297523-4sflmb6ju3pnefanj9o87ti5uvm64mdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beautyparlorapp",
+            "certificate_hash": "ebc43149dfe06b0560fa0db9278b336bd62cbe4e"
+          }
+        },
+        {
+          "client_id": "687278297523-n5vhtg7mu1570anpt1mpdp6t3bp7ee3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyM8tjslXS0d3U1V2yVtR_z1Qw8C1i2X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687278297523-n5vhtg7mu1570anpt1mpdp6t3bp7ee3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
